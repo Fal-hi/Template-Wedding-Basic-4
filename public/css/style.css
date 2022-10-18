@@ -460,11 +460,11 @@ ul.navbar-bawah li a {
     background-image: url("../images/headerm.png");
   }
   .header img.segitiga {
-    width: 70%;
+    width: 80%;
   }
   .header .wi {
     right: 5%;
-    top: 40vh;
+    top: 40%;
   }
   .header .wi h1 {
     margin: 2rem auto;
